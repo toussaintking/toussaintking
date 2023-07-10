@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @toussaintking You can call me Crescendo
+- 👋 Hi, I’m toussaint tambwe You can call me Crescendo
 - 👀 I love Techologies
 - 🌱 I’m currently learning new TECHNOLOGIES
 - 💞️ I’m looking to collaborate on flutter projets
-- 📫 How to reach me on www.toussainttambwe09@gmail.com
+- 📫 reach me on www.toussainttambwe09@gmail.com as well
 
 <!---
 toussaintking/toussaintking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
